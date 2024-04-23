@@ -1,3 +1,5 @@
+//refer to russs123(image source)
+//refer to mehmetemineker (voice source)
 import os.path
 import random
 from turtle import position
