@@ -1,2 +1,2 @@
 # FlappyBird
-This is a casual game that written with pygame
+This is a casual game that is written with pygame
